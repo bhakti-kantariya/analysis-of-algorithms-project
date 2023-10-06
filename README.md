@@ -17,10 +17,10 @@ that gives maximum profit.
 **Task 5:** Designed a $O(m * n^2 * k)$ time dynamic programming algorithm for solving Problem2  
 **Task 6A & 6B:** Designed a $O(m * n * k)$ time dynamic programming algorithm for solving Problem2 (Recursive Memoization & iterative BottomUp implementation)   
 
-**Problem3** Given a matrix A of m n integers (non-negative) representing the predicted prices of m
+**Problem3**: Given a matrix A of m n integers (non-negative) representing the predicted prices of m
 stocks for n days and an integer c (positive), find the maximum profit with no restriction
 on number of transactions. However, you cannot buy any stock for c days after selling any
-stock. If you sell a stock at day i, you are not allowed to buy any stock until day $i+c+1$  
+stock. If you sell a stock at day i, you are not allowed to buy any stock until day ${i+c+1}$  
 **Task 7:** Designed a $O(m * 2^n)$ time brute force algorithm for solving Problem3  
 **Task 8:** Designed a $O(m * n^2)$ time dynamic programming algorithm for solving Problem3  
 **Task 9A & 9B:** Designed a $O(m * n)$ time dynamic programming algorithm for solving Problem3 (Recursive Memoization & iterative BottomUp implementation)  
