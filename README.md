@@ -2,7 +2,7 @@
 
 Implemented the variations of buying and selling stock problem using Dynamic Programming and Greedy programming.  
 
-Following are the list of variations and their descriptions:  
+Following are the problem variations and their solution approaches:  
 
 **Problem1**: Given a matrix A of mxn integers (non-negative) representing the predicted prices of m
 stocks for n days,  nd a single transaction (buy and sell) that gives maximum profit.  
